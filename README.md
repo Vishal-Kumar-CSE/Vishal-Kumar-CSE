@@ -6,28 +6,6 @@
   DevSecOps Engineer passionate about Cloud, Kubernetes, Automation & Cloud Security
 </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vishal-Kumar-CSE&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
----
-
-<img align="right" alt="DevOps" width="380" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/preview/devops.gif">
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/devopswithvishal" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:mail.vishalkumarcse@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Vishal-Kumar-CSE" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
 ## 👨‍💻 About Me
 
 I'm a **DevSecOps Engineer** focused on cloud infrastructure, CI/CD automation, Kubernetes, Infrastructure as Code, and cloud security.
@@ -123,55 +101,6 @@ I'm a **DevSecOps Engineer** focused on cloud infrastructure, CI/CD automation, 
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
-
----
-
-## 🎯 What I Work With
-
-```text
-☁️ Cloud
-   ├── Azure
-   └── AWS
-
-🏗️ Infrastructure
-   ├── Terraform
-   ├── Ansible
-   ├── ARM
-   └── Bicep
-
-☸️ Containers & Orchestration
-   ├── Docker
-   ├── Kubernetes
-   ├── AKS
-   └── Helm
-
-🔄 CI/CD & GitOps
-   ├── Azure DevOps
-   ├── Jenkins
-   ├── GitHub Actions
-   └── Argo CD
-
-🔐 DevSecOps
-   ├── GitLeaks
-   ├── SonarQube
-   ├── Trivy
-   ├── Checkov
-   ├── OWASP Dependency-Check
-   └── OWASP ZAP
-
-🛡️ Cloud Security
-   ├── Microsoft Defender
-   ├── Microsoft Intune
-   ├── Microsoft Entra ID
-   ├── Azure RBAC
-   └── Network Security Groups
-
-📊 Monitoring
-   ├── Prometheus
-   ├── Grafana
-   ├── Azure Monitor
-   └── Datadog
-```
 
 ---
 
