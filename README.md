@@ -6,6 +6,7 @@
   DevSecOps Engineer passionate about Cloud, Kubernetes, Automation & Cloud Security
 </h3>
 
+
 ## 👨‍💻 About Me
 
 I'm a **DevSecOps Engineer** focused on cloud infrastructure, CI/CD automation, Kubernetes, Infrastructure as Code, and cloud security.
@@ -20,8 +21,6 @@ I'm a **DevSecOps Engineer** focused on cloud infrastructure, CI/CD automation, 
 * 📊 Monitoring and observability using **Prometheus, Grafana, Azure Monitor & Datadog**
 * 💻 Comfortable working across **Linux & Windows environments**
 * 📚 Continuously learning and building hands-on cloud and DevOps projects
-
-> **Automate → Secure → Deploy → Monitor → Improve**
 
 ---
 
