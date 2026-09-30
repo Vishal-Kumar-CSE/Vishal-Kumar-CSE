@@ -11,9 +11,9 @@
   <a href="mailto:mail.vishalkumarcse@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/Vishal-Kumar-CSE" target="_blank">
+  <!-- <a href="https://github.com/Vishal-Kumar-CSE" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  </a> -->
 </p>
 
 ---
@@ -208,9 +208,9 @@ I'm a **DevSecOps Engineer** focused on cloud infrastructure, CI/CD automation, 
   <a href="mailto:mail.vishalkumarcse@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/Vishal-Kumar-CSE" target="_blank">
+  <!-- <a href="https://github.com/Vishal-Kumar-CSE" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  </a> -->
 </p>
 
 <p align="center">
